@@ -12,3 +12,5 @@ class Manager(Programmer):
 
 one=Manager()
 print(one.a)
+# one=Employee() #Gives error
+# print(one.c)

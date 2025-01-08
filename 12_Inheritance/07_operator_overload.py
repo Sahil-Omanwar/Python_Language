@@ -9,3 +9,11 @@ n=Number(1)
 m=Number(2)
 
 print(n+m)
+
+#__add__
+# __sub__
+# __mul__
+# __truediv__
+# __floordiv__
+# __str__() used to set what gets displayed upon calling str(obj)
+#__len__() #used to set what gets displayed upon calling len(obj
